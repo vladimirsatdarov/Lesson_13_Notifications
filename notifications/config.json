@@ -1,0 +1,20 @@
+{
+  "base": {
+    "project": "Test for notifications Project",
+    "environment": "qa.guru",
+    "comment": "comment test",
+    "reportLink": "https://jenkins.autotests.cloud/job/023_vladimir_satdarov-jenkins-lesson12-demoqa-properties/",
+    "language": "en",
+    "allureFolder": "C:/Users/vs/AppData/Local/Temp/4740353482901839589/allure-report",
+    "enableChart": true,
+    "enableSuitesPublishing": false,
+    "customData": {}
+  },
+  "telegram": {
+    "token": "8228975504:AAHztZUFoDtb3_fMXxN7ZYY7qMIJdRDpuXU",
+    "chat": "-1002660845806",
+    "topic": "",
+    "replyTo": "",
+    "templatePath": "/templates/telegram.ftl"
+  }
+}
